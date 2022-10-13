@@ -1,0 +1,27 @@
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.exe.config
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.xml
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_Laporan.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_Login.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_dekripsi.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_Enkripsi.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_input.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Form_Menu.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.Resources.resources
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.vbproj.GenerateResource.Cache
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.xml
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.exe.config
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.xml
+D:\JokianFilee\DESCogindo\bin\Debug\x86\DESCogindo.exe.config
+D:\JokianFilee\DESCogindo\obj\x86\Debug\DESCogindo.vbprojResolveAssemblyReference.cache
+D:\budiman_sempro\BAB\program budi\DESCogindo\bin\x86\Debug\DESCogindo.exe.config
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\x86\Debug\DESCogindo.exe
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\x86\Debug\DESCogindo.xml
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\x86\Debug\DESCogindo.pdb
+D:\budiman_sempro\BAB\program budi\DESCogindo\bin\Debug\DESCogindo.exe.config
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\x86\Debug\DESCogindo.vbprojResolveAssemblyReference.cache

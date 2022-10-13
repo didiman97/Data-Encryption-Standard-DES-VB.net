@@ -1,0 +1,55 @@
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\bin\Debug\DESCogindo.exe
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\bin\Debug\DESCogindo.pdb
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\bin\Debug\DESCogindo.xml
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form1.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form_Menu.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Resources.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.vbproj.GenerateResource.Cache
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.exe
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.xml
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.pdb
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form_dekripsi.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form_Enkripsi.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form_input.resources
+C:\Users\Gen0x\AppData\Local\Temporary Projects\DESCogindo\obj\Debug\DESCogindo.Form_laporan.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.exe
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.xml
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.pdb
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\bin\Debug\DESCogindo.exe
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\bin\Debug\DESCogindo.pdb
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\bin\Debug\DESCogindo.xml
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_dekripsi.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_Enkripsi.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_input.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_laporan.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_Menu.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Resources.resources
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.vbproj.GenerateResource.Cache
+C:\Users\Gen0x\Documents\Visual Studio 2008\Projects\DESCogindo\DESCogindo\obj\Debug\DESCogindo.Form_Login.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.xml
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.exe.config
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\Debug\DESCogindo.xml
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_Laporan.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_Login.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_dekripsi.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_Enkripsi.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_input.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Form_Menu.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.Resources.resources
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.vbproj.GenerateResource.Cache
+D:\JokianFilee\DESCogindo\obj\Debug\DESCogindo.vbprojResolveAssemblyReference.cache
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.exe.config
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.exe
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.pdb
+D:\JokianFilee\DESCogindo\bin\x86\Debug\DESCogindo.xml
+D:\budiman_sempro\BAB\program budi\DESCogindo\bin\x86\Debug\DESCogindo.exe.config
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\Debug\DESCogindo.exe
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\Debug\DESCogindo.xml
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\Debug\DESCogindo.pdb
+D:\budiman_sempro\BAB\program budi\DESCogindo\obj\Debug\DESCogindo.vbprojResolveAssemblyReference.cache
