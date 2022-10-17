@@ -1,4 +1,6 @@
 # Data-Encryption-Standard-DES-VB.net
+# Jika Ingin Bertanya Bisa Email saya di didimannasralaia@gmail.com
+# Subject Gmail Github
 #![Login](https://user-images.githubusercontent.com/49117483/195609028-b2be1b8b-fc42-424b-8415-9037795ce10e.png)
 
 #![menu utama](https://user-images.githubusercontent.com/49117483/195609035-7e291efb-a756-4550-a17c-2dff84b76efb.png)
